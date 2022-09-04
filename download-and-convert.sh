@@ -57,3 +57,7 @@ fi
 
 echo "Deleting downloaded user.js"
 rm "$INPUT_FILENAME"
+
+echo "Parameters you may want to change the following properties:"
+echo "- Letterboxing"
+echo "- keyword enabled"
